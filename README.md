@@ -2,6 +2,14 @@
 
 This is the frontend repository of the Student Management System built using React.js, Redux Toolkit, and Material-UI.
 
+## Super Admin
+- Email: admin@example.com
+- Password : admin123
+
+## Staff
+- Email: staff@example.com
+- Password: password
+
 ## 🛠 Technologies Used
 
 - React.js
